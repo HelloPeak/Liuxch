@@ -27,7 +27,7 @@
 ## 仓库repository的问题
 
 
-使用maven时会将jar包下载到.m2目录下的reposity中，默认情况下会从中央仓库https://repo.maven.apache.org/maven2中下载jar包，可以自己选择配置，如:    
+使用maven时会将jar包下载到.m2目录下的reposity中，默认情况下会从中央仓库https://repo.maven.apache.org/maven2 中下载jar包，可以自己选择配置，如:    
 
     <repositories>    
       <repository>    
